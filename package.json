@@ -1,0 +1,22 @@
+{
+  "name": "site-agencia",
+  "version": "1.0.0",
+  "description": "Site destinado a Captacao de clientes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brd3v/site-agencia.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "brd3v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brd3v/site-agencia/issues"
+  },
+  "homepage": "https://github.com/brd3v/site-agencia#readme"
+}
